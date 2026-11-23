@@ -1,0 +1,5 @@
+# Local test installs
+test-install/
+*.tmp
+.DS_Store
+Thumbs.db

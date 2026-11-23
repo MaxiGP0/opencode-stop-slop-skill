@@ -1,0 +1,20 @@
+opencode-stop-slop-skill
+Copyright (c) 2026 Máximo Gomez Pessoa (MaxiGP0)
+
+This repository contains an installer only. It does not redistribute the
+Stop Slop skill.
+
+At install time, the installer downloads the skill from the official repository:
+
+  https://github.com/hardikpandya/stop-slop
+
+The skill is MIT-licensed:
+
+  Copyright (c) 2025 Hardik Pandya
+
+The full upstream license is available at:
+
+  https://github.com/hardikpandya/stop-slop/blob/main/LICENSE
+
+Stop Slop is created by Hardik Pandya. This project is unofficial and is not
+affiliated with the author.
